@@ -15,7 +15,7 @@ export default function json2html(data) {
         .join("");
 
     // Combine everything into a table
-    return `<table data-user="juveriaasma5@gmail.com">
+    return `<table data-user="rimshafatima4147@gmail.com">
     <thead>
       <tr>${header}</tr>
     </thead>
